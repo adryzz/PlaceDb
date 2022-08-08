@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaceDb", "PlaceDb\PlaceDb.csproj", "{142DCC2D-56BE-4C87-96C2-EBAF88CE3767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{142DCC2D-56BE-4C87-96C2-EBAF88CE3767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142DCC2D-56BE-4C87-96C2-EBAF88CE3767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142DCC2D-56BE-4C87-96C2-EBAF88CE3767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142DCC2D-56BE-4C87-96C2-EBAF88CE3767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
